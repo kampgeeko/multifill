@@ -1,0 +1,117 @@
+.multifill_selected_item{
+    background-color: #f05034;
+    cursor:pointer;
+    color: white; }
+.menu-nav{
+    padding: .75rem;
+    background-color: #303538;
+    text-align: center;
+    border-bottom: 2px solid #212121; }
+.title-wrap{
+    font-size: 3rem;
+    color: #fff; /*#f05034*/
+    font-family: 'trebuchet ms';
+    letter-spacing: 3px;
+    position: relative; }
+.item-container{
+    }
+.intro{
+    font-size: 2rem; 
+    position: relative; 
+    top: 1rem;
+    letter-spacing: 1px;
+    margin: auto; }
+.intro-wrap{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 0rem;
+    margin-top: 1rem;
+    font-family: 'trebuchet ms'; }
+.demo_title{
+    height: 4rem;
+    background-color: transparent;
+    font-family: 'helvetica neue';
+    font-size: 2.4rem;
+    font-weight: lighter; 
+    color: #4d90ff;
+    text-align: center;
+    margin-top: -1rem;
+    letter-spacing: 1px; }
+.heading-wrap-main{
+    background-color: transparent;
+    text-align: left;
+    margin-bottom: 0rem;
+    margin-top: 2rem; }
+.demo-sign{
+    font-family: Monaco, Consolas, "Liberation Mono", monospace;
+    font-size: .75rem;
+    color: #f05034;
+    margin-top: -.1rem;
+    margin-bottom: .3rem; }
+.heading-thin{
+    font-family: "helvetica neue";
+    font-size: 1.7rem;
+    color: #f4f4f4; }
+.horizontal-rule{
+    height: 1px;
+    background-color: #343434;
+    margin-top: 1rem;
+    margin-bottom: 1rem; }
+form > .row{
+    position: relative;
+    top: .6rem; }
+.notif-box{
+    padding: 1rem;
+    background-color: #fff8f7;
+    color: #431a14;
+    border: 3px solid #f07e6a;
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+    padding: 1rem;
+    border-radius: .2rem; }
+.code-box{
+    padding: 1rem;
+    background-color: #292d30; 
+    border: 2px solid #343434;
+    color: #d8d8d8;
+    margin-top: 1.4rem;
+    margin-bottom: 1.4rem;
+    text-align: left;
+    font-family: Monaco, Consolas, "Liberation Mono", monospace;
+    font-size: 1rem;
+    border-radius: .3rem; }
+.code-sign{
+    font-family: Monaco, Consolas, "Liberation Mono", monospace;
+    font-size: .75rem;
+    color: #f05034; /*#c9c9c9*/
+    margin-top: -.5rem;
+    margin-bottom: .3rem; }
+.para{
+    font-size: 1.2rem;
+    color: #fff; }
+.para-contain{
+    margin-top: 1rem;
+    padding: 0; }
+#wrapper-1{
+    margin-top: 1rem; }
+.heading-1{
+    font-family: 'trebuchet ms';
+    font-size: 2.3rem;
+    color: #f4eae7; }
+.heading-wrap{
+    margin-top: 2rem;
+    margin-bottom: .5rem; }
+
+
+
+
+        
+
+
+
+    
+
+
+
+    

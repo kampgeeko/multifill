@@ -1,0 +1,35 @@
+{
+    "name": "multifill",
+    "title": "jQuery Multifill",
+    "description": "jQuery plugin for color manipulation and animation support.",
+    "keywords": [
+        "suggestion",
+        "jquery",
+        "dropdown",
+        "plugin",
+        "fill"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Kevin Kline B. Gargar",
+    },
+    "maintainers": [
+        {
+            "name": "Kevin Kline B. Gargar",
+            "email": "kevinklinegargar@gmail.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/kevinklinegargar/jquery-multifill/issues",
+    "homepage": "https://github.com/kevinklinegargar/jquery-multifill",
+    "docs": "https://github.com/kevinklinegargar/jquery-multifill",
+    "download": "https://github.com/kevinklinegargar/jquery-multifill/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
