@@ -12,8 +12,6 @@ Description: This a suggestion list dropdown jquery plugin that capable to fill 
         'data'            : false,
         'max_suggestion'  :3
     };
-
-
     function Multifill(element, config) {
         this.config = $.extend({}, defaults, config);
         this.elem = element;
@@ -25,7 +23,6 @@ Description: This a suggestion list dropdown jquery plugin that capable to fill 
         
     
     };
-
     //Initialize all listeners and functions for the assigned element
     Multifill.prototype.init = function() {
         var self =this;
@@ -202,8 +199,6 @@ Description: This a suggestion list dropdown jquery plugin that capable to fill 
             return false;
             
         });
-        
-        
         // get the values entered by a user to produce a suggestion list
         $(this.elem).keyup(function(e){
             
