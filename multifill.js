@@ -210,7 +210,10 @@ Description: This a suggestion list dropdown jquery plugin that capable to fill 
             var inc_x=0;
             //If not pressing up and down arrow key proceed to create suggestion list
             if((e.keyCode !==40) && (e.keyCode !==38)){
-                clearfields();
+            	if(e.keyCode !== 13){
+            		clearfields();
+            	}
+                
                 $('#'+self.listdiv).scrollTop(0);
                 $("#"+self.listdiv).html("");
                 $('#'+self.listdiv).hide();
@@ -327,8 +330,11 @@ Description: This a suggestion list dropdown jquery plugin that capable to fill 
 
             //remove dropdown list when the enter key pressed
             if(e.keyCode == 13){
+
+            
                 $('#'+self.listdiv).html("");
                 $('#'+self.listdiv).hide();
+                return false;
             }
 
             
