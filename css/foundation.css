@@ -1291,7 +1291,7 @@ meta.foundation-mq-topbar {
       margin: 0; }
       .top-bar h1 a {
         font-weight: normal;
-        color: white;
+        color: #f05034;
         width: 75%;
         display: block;
         padding: 0 1rem; }
@@ -5293,23 +5293,19 @@ th.hide-for-touch {
 .btn-area{
     text-align: center; }
 .btn{
-    padding: .75rem 2.25rem .75rem 2.25rem;
-    margin: 1rem -.1rem 1rem -.2rem;
-    background-color: #f05034;
-    border: 2px solid #DF3011;
-    color: white;
+    padding: .7rem 2.4rem .7rem 2.4rem;
+    margin: 1rem .5rem 1rem .5rem;
+    background-color: white;
+    border-radius: 2px;
+    color: #f05034;
     display: inline-block;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     letter-spacing: 1px;
     transition-duration: 200ms;
-    border-right: 0px solid #DF3011;
-    cursor: pointer; }
-.btn:last-child{
-    border-right: 2px solid #DF3011;
-}
+    cursor: pointer; } 
 .btn:hover {
-    background-color: #DF3011;
-    color: #FDE3DF; }
+  color:  white;
+  background-color: #f05034; }
 .footer-area{
 background-color: transparent;
 border-top: 1px solid #f05034;

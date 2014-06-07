@@ -13,20 +13,26 @@
     font-family: 'trebuchet ms';
     letter-spacing: 3px;
     position: relative; }
-.item-container{
-    }
+.pluginname-wrap{
+    font-size: 3rem;
+    font-family: 'helvetica neue';
+    letter-spacing: 2px;
+    position: relative;
+    margin-top: 1rem;
+    color: #DDDDDD;
+    text-align: center;
+}
 .intro{
     font-size: 2rem; 
     position: relative; 
     top: 1rem;
     letter-spacing: 1px;
-    margin: auto; }
+    margin: auto;
+    color: white; }
 .intro-wrap{
     padding: 0;
     margin: 0;
     text-align: center;
-    margin-bottom: 0rem;
-    margin-top: 1rem;
     font-family: 'trebuchet ms'; }
 .demo_title{
     height: 4rem;
